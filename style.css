@@ -1,0 +1,82 @@
+body {
+    margin:0;
+}
+.bottom{
+    margin-top: 0px;
+}
+.container{
+   
+width: 70%;
+margin: 0 auto;
+}
+
+.box-1{
+   background-color:#555555;
+    padding: 20 px 30 px;
+    margin: 30px;
+    border: 3px solid red;
+}
+  
+
+
+
+
+
+
+
+.box-1 h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: sans-serif;
+    color:white
+}
+
+.box-1 p{
+    color: white;
+}
+.box-2{
+    text-align: center;
+    margin: auto;
+    font-family: sans-serif;
+    padding:30px;
+    width: 80%;
+    border: 4px dashed #555;
+    
+}
+.button{
+    background-color: #222;
+    color: #fff;
+    font-size: 18px;
+    border: 1px solid #222;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.button:hover{
+  cursor:pointer;
+background-color: #fff;
+color: #222;
+}
+.box-3{
+    margin: 50px 0;
+    border: 1px solid #222;
+    padding: 20px;
+
+}
+
+.box-3 h1{
+    text-align: center;
+    color: #555;
+    font-family: sans-serif;
+}
+
+
+.categories li{
+    list-style-type: none;
+    padding: 5px 0;
+    border-bottom: 1px solid #555;
+ }
+ .myform input,.my form textarea{
+     margin: 8px;
+     padding: 5px;
+     width: 100%;
+ }
